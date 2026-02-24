@@ -1,0 +1,50 @@
+# ZYNT
+
+> Signal monitoring custom-configured for your ICP. ZYNT surfaces sales opportunities with context and recommended actions - so your team knows when to reach out, why it matters, and what to say. We handle the setup, you get intelligence delivered to your dashboard.
+
+The intelligence gap is costing B2B teams deals. Competitors track signals, engage prospects while your team is still researching, and close while you're still discovering. ZYNT closes that gap - done-for-you, live in days, with a dedicated implementation specialist.
+
+## How It Works
+
+- [ZYNT](https://getzynt.com): Discovery call - we learn your customers, target accounts, what signals matter. 30 minutes, no commitment.
+- [ZYNT](https://getzynt.com): Custom configuration - we build your signal model. Keywords, scoring, delivery preferences. You don't touch a thing.
+- [ZYNT](https://getzynt.com): Launch - signals start flowing within days. We refine based on your feedback until it's exactly right.
+- [ZYNT](https://getzynt.com): Runs like clockwork - 24/7 monitoring, prioritized alerts, recommended actions. Your research associate never sleeps.
+
+## What You Get
+
+- [ZYNT](https://getzynt.com): Unlimited data sources - LinkedIn, Google News, RSS, job boards, company sites, funding databases, X/Twitter, SERP. Curated for your use case.
+- [ZYNT](https://getzynt.com): Custom relevance scoring - every signal scored against your ICP. High-priority first, noise filtered out.
+- [ZYNT](https://getzynt.com): Signal context - why this company, why now, what changed.
+- [ZYNT](https://getzynt.com): Action recommendations - specific next steps based on signal type and your sales motion.
+- [ZYNT](https://getzynt.com): Continuous learning - gets smarter as you use it. Mark signals as valuable, system learns your preferences.
+
+## Who It's For
+
+Leaders tired of hearing about opportunities after competitors already reached out. Teams that want a partner to set things up, not another tool to figure out. People who need more than basic alerts - more context and precision. Anyone with target accounts but no system to monitor them at scale.
+
+## How ZYNT Is Different
+
+- [ZYNT vs. Google Alerts](https://getzynt.com): Google Alerts sends everything matching a keyword. ZYNT sends what actually matters - with context on why and what to do about it.
+- [ZYNT vs. Contact Data Platforms](https://getzynt.com): They give you WHO to reach. ZYNT gives you WHEN and WHY - the right moment because something just changed. We complement, not replace.
+- [ZYNT vs. DIY Tools](https://getzynt.com): DIY needs a RevOps team and weeks of setup. ZYNT is done-for-you with a dedicated specialist. Live in days.
+
+## The Shift
+
+Before: SDRs spend 3+ hours/day on manual research. Important info found weeks late. Generic outreach. 64% of buying signals missed.
+
+After: Prioritized signals every hour. Alerts within minutes with full context. Personalized outreach based on triggers. Catch what competitors miss.
+
+## Getting Started
+
+- [Book a Call](https://getzynt.com): Free discovery call - we assess fit and scope. We'll tell you honestly if ZYNT is right for you. No setup required, no long-term contract, signals in days.
+
+## Company
+
+- [Website](https://getzynt.com)
+- [GitHub](https://github.com/getzynt)
+- [Contact](mailto:contact@getzynt.com): contact@getzynt.com
+
+## Optional
+
+- [Full context](https://github.com/getzynt/zynt-shareable/blob/main/llms-full.txt): Extended product and market context

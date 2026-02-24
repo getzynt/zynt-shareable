@@ -1,0 +1,145 @@
+# ZYNT
+
+> Signal monitoring custom-configured for your ICP. ZYNT surfaces sales opportunities with context and recommended actions - so your team knows when to reach out, why it matters, and what to say. We handle the setup, you get intelligence delivered to your dashboard.
+
+---
+
+## The Problem
+
+Critical buying signals are happening right now. Your competitors track news and signals, know when to reach out and why, engage prospects while your team is still researching, and close while you're still discovering.
+
+Your team today: hours of manual research with less to show. Most signals missed entirely - no context when found. Always reacting, never anticipating. Less closing.
+
+---
+
+## How ZYNT Works
+
+ZYNT is not another tool to figure out. It's a done-for-you intelligence operation.
+
+### Discovery Call
+We learn your customers, target accounts, and what signals matter. 30 minutes, no commitment.
+
+### Custom Configuration
+We build your signal model - keywords, scoring, delivery preferences. You don't touch a thing.
+
+### Launch & Optimize
+Signals start flowing within days. We refine based on your feedback until it's exactly right.
+
+### Runs Like Clockwork
+24/7 monitoring, prioritized alerts, recommended actions. Your research associate never sleeps.
+
+---
+
+## What ZYNT Delivers
+
+### Unlimited Data Sources
+News, databases, jobs, social media, and more - curated for your use case. LinkedIn, Google News, RSS feeds, job boards, company sites, funding databases, X/Twitter, SERP. Never miss a signal.
+
+### Custom Relevance Scoring
+Every signal scored against your ICP. High-priority surfaces first; noise filtered out. No two ZYNT instances are the same - customization is the whole point.
+
+### Signal Context
+Understand WHY a signal matters. Why this company. Why now. What changed. The difference between noise and intelligence.
+
+### Action Recommendations
+Know exactly what to do next. Specific steps based on signal type and your sales motion. Not just alerts - recommended actions.
+
+### Real-Time Signal Feed
+Highest-priority opportunities first. Your personalized dashboard, always up to date. Delivered to your pipeline with CRM integration.
+
+### Continuous Learning
+Gets smarter as you use it. Mark signals as valuable. The system learns your preferences and improves scoring over time.
+
+---
+
+## Who ZYNT Is For
+
+ZYNT is for sales leaders who:
+
+- Are tired of hearing about opportunities after competitors already reached out
+- Want a partner to set things up, not another tool to figure out
+- Need more than basic alerts - more context and precision
+- Have target accounts but no system to monitor them at scale
+
+Not sure if ZYNT fits? Book a 15-minute call and we'll tell you honestly.
+
+---
+
+## Why "Do It With Us" Wins
+
+### DIY Tools
+Self-serve ICP setup, docs-only implementation, basic signal context, self-serve optimization. Weeks to value (if ever). Works if you have a RevOps team with time to build and maintain workflows.
+
+### ZYNT
+Done-for-you ICP configuration, dedicated implementation specialist, full context + recommended actions, ongoing success support. Live in days, not weeks. We bring the expertise. You bring the context.
+
+### Enterprise Tools
+Full-team configuration, dedicated account team, analyst-supported signals, dedicated CSM. Weeks to go live. Works if you have the budget and operations team to support a full enterprise deployment.
+
+---
+
+## The Shift: From Reactive to Proactive
+
+From guessing to knowing. From second to first.
+
+| Before | After |
+|--------|-------|
+| SDRs spend 3+ hours/day on manual research | Prioritized signals delivered every hour |
+| Find out about important information weeks late | Alert within minutes with full context |
+| Generic outreach with no specific angle | Personalized outreach based on triggers |
+| Miss buying signals (industry average: 64%) | Catch signals competitors miss entirely |
+
+---
+
+## Getting Started
+
+Every engagement begins with a free discovery call where we assess fit and scope. We'll tell you honestly if ZYNT is right for you.
+
+What you get from day one:
+- No setup required from you
+- Signals in days, not weeks
+- No long-term contract
+- Dedicated implementation specialist
+- Ongoing success support
+
+Most customers receive their first actionable signals within 2 weeks of the initial call.
+
+---
+
+## Frequently Asked Questions
+
+### How is ZYNT different from Google Alerts?
+Google Alerts sends you everything that matches a keyword. ZYNT sends you what actually matters - with context on why it matters and what to do about it. The difference between noise and intelligence.
+
+### How is ZYNT different from contact data platforms?
+Contact data platforms give you WHO to reach out to. ZYNT gives you WHEN and WHY - knowing the right moment because something just changed. We complement those tools, not replace them.
+
+### How long does setup take?
+Most customers are receiving signals within 2 weeks of the first call. We handle the configuration; you just provide context about your business.
+
+### What data sources do you monitor?
+Multiple source types including funding databases, news, job postings, social signals, company announcements, and more. We configure which sources matter for YOUR use case.
+
+### Can I customize what signals I receive?
+Absolutely. Customization is the whole point. We configure ZYNT for your specific ICP, target accounts, and signal priorities. No two ZYNT instances are the same.
+
+---
+
+## Why Signal Monitoring Matters
+
+B2B sales teams operate in an environment of information asymmetry. The team that learns about a buying signal first - a funding round, an executive hire, a market expansion - has a measurable advantage in pipeline velocity and close rates.
+
+Traditional approaches fail because:
+- Manual research doesn't scale. An SDR monitoring 100+ accounts manually will miss the majority of relevant signals.
+- Generic alerts create noise, not intelligence. Google Alerts and RSS feeds produce volume without context or prioritization.
+- DIY tools require RevOps teams. Self-serve platforms assume you have dedicated operations staff to build and maintain workflows.
+
+ZYNT exists because signal monitoring should be configured by experts and delivered with context that drives action.
+
+---
+
+## Company
+
+- **Website:** https://getzynt.com
+- **GitHub:** https://github.com/getzynt
+- **Email:** contact@getzynt.com
