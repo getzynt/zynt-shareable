@@ -103,5 +103,6 @@ Customization is the whole point. We configure ZYNT for your specific ICP, targe
 ## Links
 
 - **Website:** [getzynt.com](https://getzynt.com)
+- **See it in action:** [Watch the explainer](https://youtu.be/N2FKx6TMsWs?utm_source=github&utm_medium=readme&utm_campaign=zynt-shareable)
 - **LLM Context:** [llms.txt](./llms.txt) | [llms-full.txt](./llms-full.txt)
 - **Contact:** contact@getzynt.com
